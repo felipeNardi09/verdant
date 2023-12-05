@@ -1,6 +1,6 @@
 # Verdant Restaurant
 
-This project is a vegan restaurant menu. It was built for learning purposes using Vite, Redux, React Query and Supabase.
+This project is a vegan restaurant menu. It was built for learning purposes using Vite, React Router, Redux, React Query, Supabase and more.
 
 ## Technologies used
 
