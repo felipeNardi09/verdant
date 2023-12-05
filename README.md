@@ -18,7 +18,6 @@ Install the dependencies, run the server and then the project.
 
 ```sh
 npm install
-npm run server
 npm run dev
 ```
 
