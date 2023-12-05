@@ -14,7 +14,7 @@ This project is a vegan restaurant menu. It was built for learning purposes usin
 
 ## Running the project
 
-Install the dependencies, run the server and then the project.
+Install the dependencies and run the project.
 
 ```sh
 npm install
