@@ -1,9 +1,10 @@
 # Verdant Restaurant
 
-This project is a vegan restaurant menu. It was built for learning purposes using Vite, React Router, Redux, React Query, Supabase and more.
+This project is a vegan restaurant menu. It was built for learning purposes using Typescript, Vite, React Router, Redux, React Query, Supabase and more.
 
 ## Technologies used
 
+- [https://www.typescriptlang.org/] -  Typescript
 - [https://vitejs.dev/] - Vite
 - [https://reactrouter.com/en/main] - React Router
 - [https://tanstack.com/query/latest/] - React Query
